@@ -16,4 +16,7 @@ export default {
 </script>
 
 <style>
+#bookingsGrid {
+  display:flex;
+}
 </style>
